@@ -1,0 +1,11 @@
+{
+    "chatgpt.lang": "es",
+    "chatgpt.gpt3.organization": "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",
+    "chatgpt.gpt3.apiKey": "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",
+    "CodeGPT.organizationId": "org-DWrYGEIK9CDtrrjEO2rJ9xjI",
+    "CodeGPT.query.language": "Spanish",
+    "CodeGPT.Autocomplete.enabled": true,
+    "bitoAI.codeCompletion.enableAutoCompletion": true,
+    "bitoAI.codeCompletion.enableCommentToCode": true,
+    "CodeGPT.model": "gpt-3.5-turbo"
+}
